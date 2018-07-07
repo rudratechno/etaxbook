@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="add-partner-to-llp.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.caddpartner" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>ADD PARTNER TO LLP</title>
+    <title>Add partner to LLP</title>
 <meta name="description" content="Partners in a LLP are responsible for the carrying on the business of the LLP. To add a Partner to a LLP, the person proposing to become a Partner must obtain a digital signature certificate (DSC) and director identification number (DIN)." />
 <meta name="keywords" content="Add Partner To LLP,Duties and Rights of a LLP Partner" />
 <link rel="canonical" href="http://etaxbooksolutions.com/add-partner-to-llp.aspx" />
@@ -13,7 +13,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h1 class="w3ls_head1">Add Partner to LLP</h1>
+                    <h4 class="w3ls_head1">Add Partner to LLP</h4>
                 </div>
             </div>
             <p class="w3layouts_para1">
