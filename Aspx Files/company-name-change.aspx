@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="company-name-change.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.cnamechange" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>COMPANY NAME CHANGE</title>
+    <title>Company Name Change</title>
 <meta name="description" content="The name of a company or LLP can be changed by the promoters at anytime after incorporation. Some of the major reasons for change of company name are business model change, change of promoters, rebranding, etc." />
 <meta name="keywords" content="change of name of a company, company name change, MOA, AOA, Separate Legal Entity, Uninterrupted Existence, Easy Transferability, Owning Property" />
 <link rel="canonical" href="http://etaxbooksolutions.com/company-name-change.aspx" />
@@ -13,7 +13,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Company Name Change</h4>
+                    <h1 class="w3ls_head1">Company Name Change</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
