@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="company-registration.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.privatelc" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-   <title>COMPANY REGISTRATION - ELIGIBILITY, PROCESS AND EXPERT HELP</title>
+   <title>Company Registration - Eligibility, Process and Expert Help</title>
 <meta name="description" content="Private Limited Company is the most popular type of corporate legal entity in India. Private Limited Company registration is governed by Ministry of Corporate Affairs, Companies Act and the Companies Incorporation Rules." />
 <meta name="keywords" content="company registration, Private Limited Company, equity funds, separate legal entity status" />
 <link rel="canonical" href="http://etaxbooksolutions.com/company-registration.aspx" />
@@ -13,7 +13,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Company Registration - Eligibility, Process and Expert Help</h4>
+                    <h1 class="w3ls_head1">Company Registration - Eligibility, Process and Expert Help</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
