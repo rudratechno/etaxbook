@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="change-of-registered-office.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.cregistredofficechange" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>CHANGE OF REGISTERED OFFICE</title>
+    <title>Change of Registered Office</title>
 <meta name="description" content="The registered office of a Company or LLP can be changed within the local limits of any city, town or village where such office is situated by just giving a notice to the concerned Registrar within 30 days after the date of the change." />
 <meta name="keywords" content="Registered Office, Residential Address, Within City Change, Inter-State Change" />
 <link rel="canonical" href="http://etaxbooksolutions.com/change-of-registered-office.aspx" />
@@ -13,7 +13,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Change Of Registered Office</h4>
+                    <h1 class="w3ls_head1">Change Of Registered Office</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
