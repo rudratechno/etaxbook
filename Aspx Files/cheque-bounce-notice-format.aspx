@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="cheque-bounce-notice-format.aspx.cs" Inherits="E_TAX.section138notice" MasterPageFile="~/master1.Master" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>RESIGNATION LETTER FORMAT</title>
+    <title>Resignation Letter Format</title>
 <meta name="description" content="A resignation letter is a formal request for acceptance of registration from employment issued by an employee to an employer. A resignation letter usually contains the reasons for resignation, requested date of resignation and a formal thanks to the employer for providing employment thus far." />
 <meta name="keywords" content="Resignation Letter Format,How to Submit Resignation Letter " />
 <link rel="canonical" href="http://etaxbooksolutions.com/cheque-bounce-notice-format.aspx" />
@@ -70,7 +70,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Cheque Bounce Notice Format</h4>
+                    <h1 class="w3ls_head1">Cheque Bounce Notice Format</h1>
                     <img src="images/Cheque-Bounce-Notice-Format.jpg" class="img-thumbnail img-responsive" style="width: 100%;" />
 
                 </div>
