@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="appoinment-letter.aspx.cs" Inherits="E_TAX.appoinmentletter" MasterPageFile="~/master1.Master" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>APPOINTMENT LETTER FORMAT</title>
+    <title>Appointment Letter Format</title>
 <meta name="description" content="An appointment letter or employment letter is a formal letter provided in writing to a candidate joining for employment. Appointment letters are usually provided after offer letter on the first day of the candidate starting work." />
 <meta name="keywords" content="appointment letter format,appointment letter,employment letter" />
 <link rel="canonical" href="http://etaxbooksolutions.com/appoinment-letter.aspx" />
