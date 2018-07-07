@@ -70,7 +70,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Appointment Letter Format</h4>
+                    <h1 class="w3ls_head1">Appointment Letter Format</h1>
                     <img src="images/Appointment-Letter-Format.jpg" class="img-thumbnail img-responsive" style="width: 100%;" />
 
                 </div>
