@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="bank-loan-rating.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.bankloanrating" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-     <title>BANK LOAN RATING</title>
+     <title>Bank Loan Rating</title>
 <meta name="description" content="Bank loan rating from external agencies are used by Banks, Vendors, Financial Institutions, Investors and others to gauge the financial health of an Enterprise and its ability to make timely payment of its bank loan, including principal and interest payment." />
 <meta name="keywords" content="Bank loan rating,Different Types of Bank Loan Facilities,Bank loan" />
 <link rel="canonical" href="http://etaxbooksolutions.com/bank-loan-rating.aspx" />
