@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="company-annual-filing.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.cplcompany" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>COMPANY ANNUAL FILING</title>
+    <title>Company Annual Filing</title>
 <meta name="description" content="Companies in India must conduct an Annual General Meeting at the end of each financial year and file an annual return with the Ministry of Corporate Affair to maintain compliance." />
 <meta name="keywords" content="Company Annual Filing,Reasons to Company Annual Filing" />
 <link rel="canonical" href="http://etaxbooksolutions.com/company-annual-filing.aspx" />
@@ -13,7 +13,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Company Annual Filing</h4>
+                    <h1 class="w3ls_head1">Company Annual Filing</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
