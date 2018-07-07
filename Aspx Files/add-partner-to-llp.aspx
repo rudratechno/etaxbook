@@ -13,7 +13,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Add Partner to LLP</h4>
+                    <h1 class="w3ls_head1">Add Partner to LLP</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
