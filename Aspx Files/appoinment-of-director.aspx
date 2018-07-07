@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="appoinment-of-director.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.cadddirectors" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>APPOINTMENT OF DIRECTOR</title>
+    <title>Appointment Of Director</title>
 <meta name="description" content="Only living persons can be Directors of a company and the management of a company is entrusted to the Board of Directors. Appointment of Directors can be required for a company from time to time based on the requirements of the shareholders of the business." />
 <meta name="keywords" content="Appointment of Directors, digital signature certificate (DSC), director identification number (DIN), Managing Director, Executive Director" />
 <link rel="canonical" href="http://etaxbooksolutions.com/appoinment-of-director.aspx" />
