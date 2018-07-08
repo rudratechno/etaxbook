@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="partnership-registration.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.partnership" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>PARTNERSHIP REGISTRATION</title>
+    <title>Partnership Registration</title>
 <meta name="description" content="A Partnership Firm is a popular form of business constitution for businesses that are owned, managed and controlled by an Association of People for profit. Partnership firms are relatively easy to start are is prevalent amongst small and medium sized businesses in the unorganized sectors." />
 <meta name="keywords" content="PARTNERSHIP REGISTRATION, small and medium sized businesses, Limited Liability Partnership, registered and un-registered Partnership firm" />
 <link rel="canonical" href="http://etaxbooksolutions.com/partnership-registration.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/partnership-registration.aspx" />
+<meta property="og:title" content="Partnership Registration"/>
+<meta property="og:description" content="A Partnership Firm is a popular form of business constitution for businesses that are owned, managed and controlled by an Association of People for profit. Partnership firms are relatively easy to start are is prevalent amongst small and medium sized businesses in the unorganized sectors." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Partnership Registration</h4>
+                    <h1 class="w3ls_head1">Partnership Registration</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
