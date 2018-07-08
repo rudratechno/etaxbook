@@ -5,6 +5,12 @@
 <meta name="description" content="Companies in India must conduct an Annual General Meeting at the end of each financial year and file an annual return with the Ministry of Corporate Affair to maintain compliance." />
 <meta name="keywords" content="Company Annual Filing,Reasons to Company Annual Filing" />
 <link rel="canonical" href="http://etaxbooksolutions.com/company-annual-filing.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/company-annual-filing.aspx" />
+<meta property="og:title" content="Company Annual Filing"/>
+<meta property="og:description" content="Companies in India must conduct an Annual General Meeting at the end of each financial year and file an annual return with the Ministry of Corporate Affair to maintain compliance." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
