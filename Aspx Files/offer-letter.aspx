@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="offer-letter.aspx.cs" Inherits="E_TAX.offer_letter" MasterPageFile="~/master1.Master" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>OFFER LETTER FORMAT</title>
+    <title>Offer Letter Format</title>
 <meta name="description" content="An Offer Letter or an Employment Offer Letter is a formal job offer letter containing all the terms and conditions of employment usually provided in writing to a candidate who has been selected to work with a Business." />
 <meta name="keywords" content="Offer Letter Forma, Employment Offer Letter" />
 <link rel="canonical" href="http://etaxbooksolutions.com/offer-letter.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/offer-letter.aspx" />
+<meta property="og:title" content="Offer Letter Format"/>
+<meta property="og:description" content="An Offer Letter or an Employment Offer Letter is a formal job offer letter containing all the terms and conditions of employment usually provided in writing to a candidate who has been selected to work with a Business." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
     <style>
         * {
             box-sizing: border-box;
@@ -70,7 +76,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Offer Letter Format</h4>
+                    <h1 class="w3ls_head1">Offer Letter Format</h1>
                     <img src="images/Offer-Letter-Format.jpg" class="img-thumbnail img-responsive" style="width: 100%;" />
 
                 </div>
