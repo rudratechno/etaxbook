@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="logo-design-registration.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.logodesignreg" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>LOGO/DESIGN REGISTRATION</title>
+    <title>Logo/Design Registration</title>
 <meta name="description" content="Design registration is a type of intellectual property protection, under which newly created designs applying to a articles created under an industrial process can be protected from counterfeiting." />
 <meta name="keywords" content="Design Registration,Logo/Design Registration,Logo Registration" />
 <link rel="canonical" href="http://etaxbooksolutions.com/logo-design-registration.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/logo-design-registration.aspx" />
+<meta property="og:title" content="Logo/Design Registration"/>
+<meta property="og:description" content="Design registration is a type of intellectual property protection, under which newly created designs applying to a articles created under an industrial process can be protected from counterfeiting." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">logo/Design Registration</h4>
+                    <h1 class="w3ls_head1">logo/Design Registration</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
