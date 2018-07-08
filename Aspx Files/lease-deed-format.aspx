@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="lease-deed-format.aspx.cs" Inherits="E_TAX.lease_dead_format" MasterPageFile="~/master1.Master" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>LEASE DEED FORMAT</title>
+    <title>Lease Deed Format</title>
 <meta name="description" content="This lease deed is designed for leasing or renting of commercial property. Lease deed is a legal document which lays out the prescribed terms and conditions under which the property is leased out." />
 <meta name="keywords" content="lease deed format,LEASE DEED FORMAT" />
 <link rel="canonical" href="http://etaxbooksolutions.com/lease-deed-format.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/lease-deed-format.aspx" />
+<meta property="og:title" content="Lease Deed Format"/>
+<meta property="og:description" content="This lease deed is designed for leasing or renting of commercial property. Lease deed is a legal document which lays out the prescribed terms and conditions under which the property is leased out." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
     <style>
         * {
             box-sizing: border-box;
@@ -70,7 +76,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Lease Deed Format</h4>
+                    <h1 class="w3ls_head1">Lease Deed Format</h1>
                     <img src="images/Lease-Deed.jpg" class="img-thumbnail img-responsive" style="width: 100%;" />
 
                 </div>
