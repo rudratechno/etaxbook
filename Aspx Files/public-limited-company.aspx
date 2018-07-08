@@ -2,10 +2,16 @@
 
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>PUBLIC LIMITED COMPANY</title>
+    <title>Public Limited Company</title>
 <meta name="description" content="A limited company grants limited liability to its owners and management. A min of three Directors are required for establishing a Public Limited Company and it has more stringent regulatory requirements compared to a Private Limited Company." />
 <meta name="keywords" content="Public Limited Company, shareholding" />
 <link rel="canonical" href="http://etaxbooksolutions.com/public-limited-company.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/public-limited-company.aspx" />
+<meta property="og:title" content="Public Limited Company"/>
+<meta property="og:description" content="A limited company grants limited liability to its owners and management. A min of three Directors are required for establishing a Public Limited Company and it has more stringent regulatory requirements compared to a Private Limited Company." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -14,7 +20,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Public Limited Company</h4>
+                    <h1 class="w3ls_head1">Public Limited Company</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
