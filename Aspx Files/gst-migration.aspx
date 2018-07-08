@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="gst-migration.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.gstmigration" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>GST MIGRATION</title>
+    <title>GST Migration</title>
 <meta name="description" content="Goods and Services Tax or GST has been implemented in India from 1st July 2017 and GST migration started from 2016. Since all entities registered under VAT or Central Excise or Service Tax did not migrate to GST, the time-limit for GST migration has been extended by another three months until end of September 2017." />
 <meta name="keywords" content="GST migration, GST, VAT, Central Excise, Service Tax, GSTIN" />
 <link rel="canonical" href="http://etaxbooksolutions.com/gst-migration.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/gst-migration.aspx" />
+<meta property="og:title" content="GST Migration"/>
+<meta property="og:description" content="Goods and Services Tax or GST has been implemented in India from 1st July 2017 and GST migration started from 2016. Since all entities registered under VAT or Central Excise or Service Tax did not migrate to GST, the time-limit for GST migration has been extended by another three months until end of September 2017. " />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">GST Migration</h4>
+                    <h1 class="w3ls_head1">GST Migration</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
