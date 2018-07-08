@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="resignation-letter-format.aspx.cs" Inherits="E_TAX.registration_letter" MasterPageFile="~/master1.Master" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>RESIGNATION LETTER FORMAT</title>
+    <title>Resignation Letter Format</title>
 <meta name="description" content="A resignation letter is a formal request for acceptance of registration from employment issued by an employee to an employer. A resignation letter usually contains the reasons for resignation, requested date of resignation and a formal thanks to the employer for providing employment thus far." />
 <meta name="keywords" content="Resignation Letter Format,How to Submit Resignation Letter " />
 <link rel="canonical" href="http://etaxbooksolutions.com/resignation-letter-format.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/resignation-letter-format.aspx" />
+<meta property="og:title" content="Resignation Letter Format"/>
+<meta property="og:description" content="A resignation letter is a formal request for acceptance of registration from employment issued by an employee to an employer. A resignation letter usually contains the reasons for resignation, requested date of resignation and a formal thanks to the employer for providing employment thus far." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
     <style>
         * {
             box-sizing: border-box;
@@ -70,7 +76,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Resignation Letter Format</h4>
+                    <h1 class="w3ls_head1">Resignation Letter Format</h1>
                     <img src="images/Resignation-Letter-Format.jpg" class="img-thumbnail img-responsive" style="width: 100%;" />
 
                 </div>
