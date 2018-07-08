@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="partnership-firm-compliance.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.cpartnership" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>PARTNERSHIP FIRM COMPLIANCE</title>
+    <title>Partnership Firm Compliance</title>
     <meta name="description" content="Partnership firm compliance mainly includes filing of income tax return, while corporate entities like LLP and Company require both income tax return filing with the Income Tax Department and annual return filing with the Ministry of Corporate Affairs." />
     <meta name="keywords" content="Partnership firms, Income Tax Filing, GST Filing, ESI Return, Service Tax Or VAT" />
 <link rel="canonical" href="http://etaxbooksolutions.com/partnership-firm-compliance.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/partnership-firm-compliance.aspx" />
+<meta property="og:title" content="Partnership Firm Compliance"/>
+<meta property="og:description" content="Partnership firm compliance mainly includes filing of income tax return, while corporate entities like LLP and Company require both income tax return filing with the Income Tax Department and annual return filing with the Ministry of Corporate Affairs." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Partnership Firm Compliance</h4>
+                    <h1 class="w3ls_head1">Partnership Firm Compliance</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
