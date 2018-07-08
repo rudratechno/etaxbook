@@ -5,6 +5,12 @@
 <meta name="description" content="Partners in a LLP are responsible for the carrying on the business of the LLP. To add a Partner to a LLP, the person proposing to become a Partner must obtain a digital signature certificate (DSC) and director identification number (DIN)." />
 <meta name="keywords" content="Add Partner To LLP,Duties and Rights of a LLP Partner" />
 <link rel="canonical" href="http://etaxbooksolutions.com/add-partner-to-llp.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/add-partner-to-llp.aspx" />
+<meta property="og:title" content="Add Partner To Llp"/>
+<meta property="og:description" content="Partners in a LLP are responsible for the carrying on the business of the LLP. To add a Partner to a LLP, the person proposing to become a Partner must obtain a digital signature certificate (DSC) and director identification number (DIN)." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
