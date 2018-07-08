@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="resignation-of-director.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.cremovedirectors" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>RESIGNATION OF DIRECTOR</title>
+    <title>Resignation of Director</title>
 <meta name="description" content="Director in a company may need to resign or the Board of Directors or Shareholders may want to remove a Director for any reasons. In such cases, a Director can resign or be removed by filing the intimation of change of Director with MCA." />
 <meta name="keywords" content="MCA, ROC, Managing Director, Executive Director, Additional Director, Ordinary Director" />
 <link rel="canonical" href="http://etaxbooksolutions.com/resignation-of-director.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/resignation-of-director.aspx" />
+<meta property="og:title" content="Resignation Of Director"/>
+<meta property="og:description" content="Director in a company may need to resign or the Board of Directors or Shareholders may want to remove a Director for any reasons. In such cases, a Director can resign or be removed by filing the intimation of change of Director with MCA." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Resignation of Director</h4>
+                    <h1 class="w3ls_head1">Resignation of Director</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
