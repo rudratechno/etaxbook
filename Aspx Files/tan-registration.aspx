@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="tan-registration.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.tanregistration" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>TAN REGISTRATION</title>
+    <title>TAN Registration</title>
 <meta name="description" content="TAN or Tax Deduction and Collection Number (TAN) is mandatory 10 digit alpha number required to be obtained by all persons who are responsible for Tax Deduction at Source (TDS) or Tax Collection at Source (TCS) on behalf of the Government." />
 <meta name="keywords" content="Tax Deduction and Collection Number (TAN), Tax Deduction at Source (TDS), Tax Collection at Source (TCS), TDS Certificate, TAN registration, TAN Facilitation Center" />
 <link rel="canonical" href="http://etaxbooksolutions.com/tan-registration.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/tan-registration.aspx" />
+<meta property="og:title" content="TAN Registration"/>
+<meta property="og:description" content="TAN or Tax Deduction and Collection Number (TAN) is mandatory 10 digit alpha number required to be obtained by all persons who are responsible for Tax Deduction at Source (TDS) or Tax Collection at Source (TCS) on behalf of the Government." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">TAN Registration</h4>
+                    <h1 class="w3ls_head1">TAN Registration</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
