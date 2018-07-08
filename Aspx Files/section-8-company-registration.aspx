@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="section-8-company-registration.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.section8c" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>SECTION 8 COMPANY REGISTRATION</title>
+    <title>Section 8 Company Registration</title>
 <meta name="description" content="Section 8 Company is named Section 8 of the Companies Act 2013, which pertains to established for promoting commerce, art, science, sports, education etc provided the profits or other income is applied for promoting only the objects of the company and no dividend is paid to its members." />
 <meta name="keywords" content="Section 8, Section 8 Company Registration, Section 25" />
 <link rel="canonical" href="http://etaxbooksolutions.com/section-8-company-registration.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/section-8-company-registration.aspx" />
+<meta property="og:title" content="Section 8 Company Registration"/>
+<meta property="og:description" content="Section 8 Company is named Section 8 of the Companies Act 2013, which pertains to established for promoting commerce, art, science, sports, education etc provided the profits or other income is applied for promoting only the objects of the company and no dividend is paid to its members." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Section 8 Company Registration</h4>
+                    <h1 class="w3ls_head1">Section 8 Company Registration</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
