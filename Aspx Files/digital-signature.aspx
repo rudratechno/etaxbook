@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="digital-signature.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.digitalsignature" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>DIGITAL SIGNATURE - CLASS 2 OR CLASS 3</title>
+    <title>Digital Signature - Class 2 or Class 3</title>
 <meta name="description" content="A Digital Signature is equivalent of a physical signature in electronic format, it establishes the id of the sender of an electronic document on the Internet. Digital Signatures are used for online transactions such as Income Tax E-Filing, Company, E-Tenders etc." />
 <meta name="keywords" content="Digital Signature, Class I, Class II Digital Signature, Class III Digital Signature, Income Tax E-Filing, IT Return E-Filing, DIN, DPIN, Ministry of Corporate Affairs and Income Tax Department, E-Tendering, E-Auctions, USB E-Token" />
 <link rel="canonical" href="http://etaxbooksolutions.com/digital-signature.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/digital-signature.aspx" />
+<meta property="og:title" content="Digital Signature - Class 2 Or Class 3"/>
+<meta property="og:description" content="A Digital Signature is equivalent of a physical signature in electronic format, it establishes the id of the sender of an electronic document on the Internet. Digital Signatures are used for online transactions such as Income Tax E-Filing, Company, E-Tenders etc." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Digital Signature - Class 2 or Class 3</h4>
+                    <h1 class="w3ls_head1">Digital Signature - Class 2 or Class 3</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
