@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="gst-return-filing.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.gstfilling" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>GST RETURN FILING</title>
+    <title>GST Return Filing</title>
 <meta name="description" content="GST has been implemented in India from 1st July 2017. Under the new GST regime, nearly 1 crore business in India has obtained GST registration. GST return filing is mandatory for all entities having GST registration, irrespective of business activity or sales or profitability during the return filing period." />
 <meta name="keywords" content="GST RETURN FILING, GST registration, GST returns,GSTR-1, GSTR-2, GSTR-3" />
 <link rel="canonical" href="http://etaxbooksolutions.com/gst-return-filing.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/gst-return-filing.aspx" />
+<meta property="og:title" content="GST Return Filing"/>
+<meta property="og:description" content="GST has been implemented in India from 1st July 2017. Under the new GST regime, nearly 1 crore business in India has obtained GST registration. GST return filing is mandatory for all entities having GST registration, irrespective of business activity or sales or profitability during the return filing period." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">GST Return Filing</h4>
+                    <h1 class="w3ls_head1">GST Return Filing</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
