@@ -1,9 +1,9 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="cheque-bounce-notice-format.aspx.cs" Inherits="E_TAX.section138notice" MasterPageFile="~/master1.Master" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="cheque-bounce-notice-format.aspx.cs" Inherits="E_TAX.section138notice" MasterPageFile="~/master1.Master" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>Resignation Letter Format</title>
-<meta name="description" content="A resignation letter is a formal request for acceptance of registration from employment issued by an employee to an employer. A resignation letter usually contains the reasons for resignation, requested date of resignation and a formal thanks to the employer for providing employment thus far." />
-<meta name="keywords" content="Resignation Letter Format,How to Submit Resignation Letter " />
+    <title>Cheque Bounce Notice Format</title>
+<meta name="description" content="Cheque bounce or cheque non-payment in a serious offence in India punishable with imprisonment or fine under Section 138 of the Negotiable Instruments Act." />
+<meta name="keywords" content="cheque bounce notice format,How to Issue Cheque Bounce Notice,When Cheque Bounce Notice Can Be Issued" />
 <link rel="canonical" href="http://etaxbooksolutions.com/cheque-bounce-notice-format.aspx" />
     <style>
         * {
