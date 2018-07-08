@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="hr-laws.aspx.cs" Inherits="E_TAX.hr_law" MasterPageFile="~/master1.Master" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>HR LAWS IN INDIA</title>
+    <title>HR Laws in India</title>
 <meta name="description" content="HR laws or human resources law in India are synonymous with the labor laws and industrial laws in India. Labour laws in India govern the relationship between employer, employee and the Government and ensure that the rights and obligations of all parties are satisfied." />
 <meta name="keywords" content="HR laws,HR Laws pertaining to recruiting,HR Laws pertaining to employment offer letters" />
 <link rel="canonical" href="http://etaxbooksolutions.com/hr-laws.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/hr-laws.aspx" />
+<meta property="og:title" content="HR Laws In India"/>
+<meta property="og:description" content="HR laws or human resources law in India are synonymous with the labor laws and industrial laws in India. Labour laws in India govern the relationship between employer, employee and the Government and ensure that the rights and obligations of all parties are satisfied." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
     <style>
         * {
             box-sizing: border-box;
@@ -70,7 +76,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">HR Laws in India</h4>
+                    <h1 class="w3ls_head1">HR Laws in India</h1>
                     <img src="images/HR-Laws-in-India.jpg" class="img-thumbnail img-responsive" style="width: 100%;" />
 
                 </div>
