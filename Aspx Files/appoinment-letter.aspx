@@ -5,6 +5,12 @@
 <meta name="description" content="An appointment letter or employment letter is a formal letter provided in writing to a candidate joining for employment. Appointment letters are usually provided after offer letter on the first day of the candidate starting work." />
 <meta name="keywords" content="appointment letter format,appointment letter,employment letter" />
 <link rel="canonical" href="http://etaxbooksolutions.com/appoinment-letter.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/appoinment-letter.aspx" />
+<meta property="og:title" content="Appointment Letter Format"/>
+<meta property="og:description" content="An appointment letter or employment letter is a formal letter provided in writing to a candidate joining for employment. Appointment letters are usually provided after offer letter on the first day of the candidate starting work." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
     <style>
         * {
             box-sizing: border-box;
