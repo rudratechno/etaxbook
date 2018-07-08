@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" MasterPageFile="~/master1.Master" CodeBehind="gst-registration-temp.aspx.cs" Inherits="E_TAX.GSTREGTEMP" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>GST REGISTRATION FOR CASUAL TAXABLE PERSON</title>
+    <title>GST Registration for Casual Taxable Person</title>
     <meta name="description" content="A Casual taxable person is a person who occasionally undertakes transactions involving supply of goods or services, whether as principal, agent, in a State or a Union territory where he has no fixed place of business." />
     <meta name="keywords" content="GST registration, GST returns, casual taxable person, GST deposit, GST migration, GST return filing, private limited company registration, trademark filing, E-TAX Advisor" />
     <link rel="canonical" href="http://etaxbooksolutions.com/gst-registration-temp.aspx" />
+    <meta property="og:url" content="http://etaxbooksolutions.com/gst-registration-temp.aspx" />
+    <meta property="og:title" content="GST Registration For Casual Taxable Person"/>
+    <meta property="og:description" content="A Casual taxable person is a person who occasionally undertakes transactions involving supply of goods or services, whether as principal, agent, in a State or a Union territory where he has no fixed place of business." />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="etaxbooksolutions.com" />
+    <meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
     <style>
         * {
             box-sizing: border-box;
@@ -70,7 +76,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">GST Registration for Casual Taxable Person</h4>
+                    <h1 class="w3ls_head1">GST Registration for Casual Taxable Person</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
