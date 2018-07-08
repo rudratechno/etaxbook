@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="esi-registration.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.esiregistration" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>ESI REGISTRATION</title>
+    <title>ESI Registration</title>
 <meta name="description" content="Employee's State Insurance(ESI) is a self-financing social security and health insurance scheme for Indian workers. The scheme provides Employees with a comprehensive Social Security Scheme for protecting the employees during sickness, injury or disability." />
 <meta name="keywords" content="Employee's State Insurance(ESI), ESI Corporation, ESI Act, Ministry of Labour and Employment, ESI Registration" />
 <link rel="canonical" href="http://etaxbooksolutions.com/esi-registration.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/esi-registration.aspx" />
+<meta property="og:title" content="ESI Registration"/>
+<meta property="og:description" content="Employee's State Insurance(ESI) is a self-financing social security and health insurance scheme for Indian workers. The scheme provides Employees with a comprehensive Social Security Scheme for protecting the employees during sickness, injury or disability." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">ESI Registration</h4>
+                    <h1 class="w3ls_head1">ESI Registration</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
