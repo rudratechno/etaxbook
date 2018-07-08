@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="llp-annual-filing.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.cllpartnership" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>LLP ANNUAL FILING</title>
+    <title>LLP Annual Filing</title>
 <meta name="description" content="LLPs in India must file its Annual Return within 60 days from the end of close of financial year and Statement of Account & Solvency within 30 days from end of six months of close of financial year." />
 <meta name="keywords" content="LLP Annual Filing,Reasons to LLP Annual Return Filing" />
 <link rel="canonical" href="http://etaxbooksolutions.com/llp-annual-filing.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/llp-annual-filing.aspx" />
+<meta property="og:title" content="LLP Annual Filing"/>
+<meta property="og:description" content="LLPs in India must file its Annual Return within 60 days from the end of close of financial year and Statement of Account & Solvency within 30 days from end of six months of close of financial year." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">LLP Annual Filing</h4>
+                    <h1 class="w3ls_head1">LLP Annual Filing</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
