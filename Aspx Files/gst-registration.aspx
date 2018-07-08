@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="gst-registration.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.GSTREGISTRATION" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>GST REGISTRATION - ELIGIBILITY, PROCESS AND EXPERT HELP </title>
+    <title>GST Registration - Eligibility, Process and Expert Help</title>
     <meta name="description" content="Registration under GST is mandatory once an entity crosses the minimum threshold turnover of starts a new business that is expected to cross the prescribed turnover" />
     <meta name="keywords" content="GST,GST Registration,GST Filling, GST Registration Eligibility,GST Registration Process, GST Registration Expert Help" />
     <link rel="canonical" href="http://etaxbooksolutions.com/gst-registration.aspx" />
+    <meta property="og:url" content="http://etaxbooksolutions.com/gst-registration.aspx" />
+    <meta property="og:title" content="GST Registration - Eligibility, Process And Expert Help"/>
+    <meta property="og:description" content="Registration under GST is mandatory once an entity crosses the minimum threshold turnover of starts a new business that is expected to cross the prescribed turnover " />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="etaxbooksolutions.com" />
+    <meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
     <style>
         * {
             box-sizing: border-box;
@@ -70,7 +76,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">GST Registration - Eligibility, Process and Expert Help</h4>
+                    <h1 class="w3ls_head1">GST Registration - Eligibility, Process and Expert Help</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
