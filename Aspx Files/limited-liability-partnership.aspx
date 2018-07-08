@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="limited-liability-partnership.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.llpartnership" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>LIMITED LIABILITY PARTNERSHIP (LLP) REGISTRATION</title>
+    <title>Limited Liability Partnership (LLP) Registration</title>
 <meta name="description" content="Limited Liability Partnership (LLP) was introduced in India by way of the Limited Liability Partnership Act, 2008. The basic premise behind the introduction of LLP is to provide a form of business entity that is simple to maintain while providing limited liability to the owners." />
 <meta name="keywords" content="Limited Liability Partnership, LLP, Micro and Small businesses, LLP registration" />
 <link rel="canonical" href="http://etaxbooksolutions.com/limited-liability-partnership.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/limited-liability-partnership.aspx" />
+<meta property="og:title" content="Limited Liability Partnership (LLP) Registration"/>
+<meta property="og:description" content="Limited Liability Partnership (LLP) was introduced in India by way of the Limited Liability Partnership Act, 2008. The basic premise behind the introduction of LLP is to provide a form of business entity that is simple to maintain while providing limited liability to the owners." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Limited Liability Partnership (LLP) Registration</h4>
+                    <h1 class="w3ls_head1">Limited Liability Partnership (LLP) Registration</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
