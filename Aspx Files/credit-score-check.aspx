@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="credit-score-check.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.creditscorecheck" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>CREDIT SCORE CHECK [CIBIL]</title>
+    <title>Credit Score Check [CIBIL]</title>
 <meta name="description" content="India has three credit rating agencies namely CIBIL (Credit Information Bureau (India) Ltd), Equifax India and Experian India. These rating agencies regularly collect information from creditors, lenders, utilities and other debt collectors to process the data into a readable and usable form." />
 <meta name="keywords" content="Reasons to Credit Score Check,Credit Score Check" />
 <link rel="canonical" href="http://etaxbooksolutions.com/credit-score-check.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/credit-score-check.aspx" />
+<meta property="og:title" content="Credit Score Check [Cibil]"/>
+<meta property="og:description" content="India has three credit rating agencies namely CIBIL (Credit Information Bureau (India) Ltd), Equifax India and Experian India. These rating agencies regularly collect information from creditors, lenders, utilities and other debt collectors to process the data into a readable and usable form." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Credit Score Check [CIBIL]</h4>
+                    <h1 class="w3ls_head1">Credit Score Check [CIBIL]</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
