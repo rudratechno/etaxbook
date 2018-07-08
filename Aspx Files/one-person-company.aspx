@@ -3,10 +3,16 @@
 
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>ONE PERSON COMPANY (OPC) REGISTRATION</title>
+    <title>One Person Company (OPC) Registration</title>
 <meta name="description" content="The concept of One Person Company in India was introduced through the Companies Act, 2013 to support entrepreneurs who on their own are capable of starting a venture by allowing them to create a single person economic entity. One of the biggest advantages of OPC is that there can be only one member in OPC." />
 <meta name="keywords" content="One Person Company, OPC, sole shareholder, MOA, AOA" />
 <link rel="canonical" href="http://etaxbooksolutions.com/one-person-company.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/one-person-company.aspx" />
+<meta property="og:title" content="One Person Company (OPC) Registration"/>
+<meta property="og:description" content="The concept of One Person Company in India was introduced through the Companies Act, 2013 to support entrepreneurs who on their own are capable of starting a venture by allowing them to create a single person economic entity. One of the biggest advantages of OPC is that there can be only one member in OPC." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -15,7 +21,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">One Person Company (OPC) Registration</h4>
+                    <h1 class="w3ls_head1">One Person Company (OPC) Registration</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
