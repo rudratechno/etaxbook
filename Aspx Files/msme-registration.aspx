@@ -2,10 +2,16 @@
 
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>MSME REGISTRATION</title>
+    <title>MSME Registration</title>
 <meta name="description" content="MSME stands for micro, small and medium enterprises and any enterprise that falls under any of these three categories. MSME enterprises are the backbone of any economy and are an engine of economic growth, promoting equitable development for all." />
 <meta name="keywords" content="MSME, micro small and medium enterprises, MSMED Act, MSME Registration," />
 <link rel="canonical" href="http://etaxbooksolutions.com/msme-registration.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/msme-registration.aspx" />
+<meta property="og:title" content="Msme Registration"/>
+<meta property="og:description" content="MSME stands for micro, small and medium enterprises and any enterprise that falls under any of these three categories. MSME enterprises are the backbone of any economy and are an engine of economic growth, promoting equitable development for all." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -14,7 +20,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">MSME Registration</h4>
+                    <h1 class="w3ls_head1">MSME Registration</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
