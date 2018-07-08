@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="company-share-transfer.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.csharetransfer" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-     <title>COMPANY SHARE TRANSFER</title>
+     <title>Company Share Transfer</title>
 <meta name="description" content="The ownership of a company limited by shares is held by the shareholders of the Company. The shareholders in turn appoint Directors to manage the affairs of the Company. Hence, ownership of a company rests with the shareholders and not the Directors" />
 <meta name="keywords" content="Company Share Transfer,Reasons to Share Transfer" />
 <link rel="canonical" href="http://etaxbooksolutions.com/company-share-transfer.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/company-share-transfer.aspx" />
+<meta property="og:title" content="Company Share Transfer"/>
+<meta property="og:description" content="The ownership of a company limited by shares is held by the shareholders of the Company. The shareholders in turn appoint Directors to manage the affairs of the Company. Hence, ownership of a company rests with the shareholders and not the Directors. " />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Company Share Transfer</h4>
+                    <h1 class="w3ls_head1">Company Share Transfer</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
