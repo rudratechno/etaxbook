@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="term-loan-syndication.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.termloan" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>TERM LOAN SYNDICATION</title>
+    <title>Term Loan Syndication</title>
 <meta name="description" content="Term loan are provided for acquiring or constructing or installing or establishing capital assets, which will provide returns over a period of time. Term loans will also be repaid in regular payments over a period of time, as the asset generates returns." />
 <meta name="keywords" content="Term Loan Syndication,Reasons to Term Loan Syndication" />
 <link rel="canonical" href="http://etaxbooksolutions.com/term-loan-syndication.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/term-loan-syndication.aspx" />
+<meta property="og:title" content="Term Loan Syndication"/>
+<meta property="og:description" content="Term loan are provided for acquiring or constructing or installing or establishing capital assets, which will provide returns over a period of time. Term loans will also be repaid in regular payments over a period of time, as the asset generates returns." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Term Loan Syndication</h4>
+                    <h1 class="w3ls_head1">Term Loan Syndication</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
