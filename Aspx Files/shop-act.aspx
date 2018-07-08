@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="shop-act.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.shopact" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>WHAT IS SHOP ACT..?</title>
+    <title>What Is Shop Act..?</title>
 <meta name="description" content="It is a registration of a commercial establishment as a business entity under Department of Labour with concerned State Government. In Maharashtra, it is registered under Bombay Shops and Establishment Act 1948." />
 <meta name="keywords" content="Shop act, Shop and Establishment Act, Department of Labor, shop act registration" />
 <link rel="canonical" href="http://etaxbooksolutions.com/shop-act.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/shop-act.aspx" />
+<meta property="og:title" content="What Is Shop Act..?"/>
+<meta property="og:description" content="It is a registration of a commercial establishment as a business entity under Department of Labour with concerned State Government. In Maharashtra, it is registered under Bombay Shops and Establishment Act 1948." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">WHAT IS SHOP ACT..?</h4>
+                    <h1 class="w3ls_head1">WHAT IS SHOP ACT..?</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
