@@ -3,10 +3,16 @@
 <%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="ajaxToolkit" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>FIND GST RATE, HSN CODE, & SAC CODE</title>
+    <title>Find GST Rate, HSN Code, & SAC Code</title>
 <meta name="description" content="GST is determined based on the HSN code or SAC code. HSN or Harmonized System Nomenclature code developed by the World Customs Organization. SAC or Services Accounting Code is a classification system for services developed by the Service Tax Department." />
 <meta name="keywords" content="GST RATE, Harmonized System Nomenclature code HSN code, Services Accounting Code SAC code, World Customs Organization (WCO), Service Tax Department of India" />
 <link rel="canonical" href="http://etaxbooksolutions.com/find-gst-rate-hsn-sac-code.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/find-gst-rate-hsn-sac-code.aspx" />
+<meta property="og:title" content="Find GST Rate, HSN Code, & SAC Code"/>
+<meta property="og:description" content="GST is determined based on the HSN code or SAC code. HSN or Harmonized System Nomenclature code developed by the World Customs Organization. SAC or Services Accounting Code is a classification system for services developed by the Service Tax Department. " />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 
     <style>
         #divwidth1 {
@@ -60,7 +66,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">FIND GST RATE, HSN CODE, & SAC CODE</h4>
+                    <h1 class="w3ls_head1">FIND GST RATE, HSN CODE, & SAC CODE</h1>
                 </div>
             </div>
             <p class="w3layouts_para1" style="padding-right: 10%; padding-left: 10%; text-align: center;">
