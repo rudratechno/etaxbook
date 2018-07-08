@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="increase-in-authorised-capital.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.cincreasedcapital" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>INCREASE IN AUTHORISED CAPITAL</title>
+    <title>Increase In Authorised Capital</title>
 <meta name="description" content="The authorised capital of a Company determines the number of shares a Company can issue to its shareholders. An increase in authorized capital might be required for issuing new shares and/or inducting more capital into the Company." />
 <meta name="keywords" content="Authorised Capital, IndiaFilings, Paid-Up Capital, Increase Capital" />
 <link rel="canonical" href="http://etaxbooksolutions.com/increase-in-authorised-capital.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/increase-in-authorised-capital.aspx" />
+<meta property="og:title" content="Increase In Authorised Capital"/>
+<meta property="og:description" content="The authorised capital of a Company determines the number of shares a Company can issue to its shareholders. An increase in authorized capital might be required for issuing new shares and/or inducting more capital into the Company." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Increase In Authorised Capital</h4>
+                    <h1 class="w3ls_head1">Increase In Authorised Capital</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
