@@ -5,6 +5,12 @@
 <meta name="description" content="Form 16 is an important document that is issued in accordance with the provisions of Income Tax Act,1961. A form 16 contains details of the amount of tax deducted at source (TDS) on salary by your employer alongwith the salary breakup for the financial year." />
 <meta name="keywords" content="form 16, Form 16,Difference between Form 16 and Form 16A" />
 <link rel="canonical" href="http://etaxbooksolutions.com/from16fill.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/from16fill.aspx" />
+<meta property="og:title" content="Form 16"/>
+<meta property="og:description" content="Form 16 is an important document that is issued in accordance with the provisions of Income Tax Act,1961. A form 16 contains details of the amount of tax deducted at source (TDS) on salary by your employer alongwith the salary breakup for the financial year." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
     <style>
         .btnsubmit {
             color: #fff;
@@ -49,7 +55,7 @@
     <!-- contact -->
     <div class="contact">
         <div class="container">
-            <h2 class="w3ls_head">FORM 16</h2>
+            <h1 class="w3ls_head">FORM 16</h1>
             <b>
                 <asp:Label ID="sucmsg" runat="server" Text="" Style="color: red;"></asp:Label></b>
             <br />
