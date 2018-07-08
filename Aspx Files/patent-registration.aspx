@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="patent-registration.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.patentreg" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>PATENT REGISTRATION</title>
+    <title>Patent Registration</title>
 <meta name="description" content="Patent is an exclusive right for an invention provided by the law for a limited time to the Patentee. By patenting an invention, the patentee is able to control the making, using, selling or importing of the patented product or process for producing that product without his/her consent." />
 <meta name="keywords" content="Patent registration,Reasons to Register a Patent Firm" />
 <link rel="canonical" href="http://etaxbooksolutions.com/patent-registration.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/patent-registration.aspx" />
+<meta property="og:title" content="Patent Registration"/>
+<meta property="og:description" content="Patent is an exclusive right for an invention provided by the law for a limited time to the Patentee. By patenting an invention, the patentee is able to control the making, using, selling or importing of the patented product or process for producing that product without his/her consent." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Patent Registration</h4>
+                    <h1 class="w3ls_head1">Patent Registration</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
