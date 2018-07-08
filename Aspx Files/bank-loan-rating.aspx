@@ -5,6 +5,12 @@
 <meta name="description" content="Bank loan rating from external agencies are used by Banks, Vendors, Financial Institutions, Investors and others to gauge the financial health of an Enterprise and its ability to make timely payment of its bank loan, including principal and interest payment." />
 <meta name="keywords" content="Bank loan rating,Different Types of Bank Loan Facilities,Bank loan" />
 <link rel="canonical" href="http://etaxbooksolutions.com/bank-loan-rating.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/bank-loan-rating.aspx" />
+<meta property="og:title" content="Bank Loan Rating"/>
+<meta property="og:description" content="Bank loan rating from external agencies are used by Banks, Vendors, Financial Institutions, Investors and others to gauge the financial health of an Enterprise and its ability to make timely payment of its bank loan, including principal and interest payment." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
