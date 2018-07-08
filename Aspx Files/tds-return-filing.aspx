@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="tds-return-filing.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.tdsreturn" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>TDS RETURN FILING</title>
+    <title>TDS Return Filing</title>
 <meta name="description" content="Entities have TAN Registration must be file TDS returns. TDS returns are due quarterly. E-Tax Book Solutions can help you file e file your TDS returns online. Our TDS experts can help you compute your TDS payments and e file the TDS return and keep you in compliance with TDS regulations." />
 <meta name="keywords" content="Tax Deduction and Collection Number (TAN), Tax Deduction at Source (TDS), Tax Collection at Source (TCS), TDS returns, TDS returns filing" />
 <link rel="canonical" href="http://etaxbooksolutions.com/tds-return-filing.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/tds-return-filing.aspx" />
+<meta property="og:title" content="TDS Return Filing"/>
+<meta property="og:description" content="Entities have TAN Registration must be file TDS returns. TDS returns are due quarterly. E-Tax Book Solutions can help you file e file your TDS returns online. Our TDS experts can help you compute your TDS payments and e file the TDS return and keep you in compliance with TDS regulations." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">TDS Return Filing</h4>
+                    <h1 class="w3ls_head1">TDS Return Filing</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
