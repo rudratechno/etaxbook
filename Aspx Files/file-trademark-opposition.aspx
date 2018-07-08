@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="file-trademark-opposition.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.trademarkoppo" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>FILE TRADEMARK OPPOSITION</title>
+    <title>File Trademark Opposition</title>
 <meta name="description" content="Trademark registration is a type of intellectual property protection, under which a word or visual symbol used by a business to distinguish it goods or services from other similar goods or services originating from a different business can be protected." />
 <meta name="keywords" content="Trademark registration Opposition,Important Aspects of Filing Trademark Opposition" />
 <link rel="canonical" href="http://etaxbooksolutions.com/file-trademark-opposition.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/file-trademark-opposition.aspx" />
+<meta property="og:title" content="File Trademark Opposition"/>
+<meta property="og:description" content="Trademark registration is a type of intellectual property protection, under which a word or visual symbol used by a business to distinguish it goods or services from other similar goods or services originating from a different business can be protected." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">File Trademark Opposition</h4>
+                    <h1 class="w3ls_head1">File Trademark Opposition</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
