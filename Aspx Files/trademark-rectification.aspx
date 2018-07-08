@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="trademark-rectification.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.trademarkrecti" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>TRADEMARK RECTIFICATION</title>
+    <title>Trademark Rectification</title>
 <meta name="description" content="Trademark registration is a type of intellectual property protection, under which a word or visual symbol used by a business to distinguish its goods or services from other similar goods or services originating from a different business can be protected." />
 <meta name="keywords" content="Filing Trademark Application,Important Aspects of Filing Trademark Application,Trademark Reflection" />
 <link rel="canonical" href="http://etaxbooksolutions.com/trademark-rectification.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/trademark-rectification.aspx" />
+<meta property="og:title" content="Trademark Rectification"/>
+<meta property="og:description" content="Trademark registration is a type of intellectual property protection, under which a word or visual symbol used by a business to distinguish its goods or services from other similar goods or services originating from a different business can be protected." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Trademark Rectification</h4>
+                    <h1 class="w3ls_head1">Trademark Rectification</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
