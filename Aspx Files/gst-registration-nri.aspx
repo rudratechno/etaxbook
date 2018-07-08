@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="gst-registration-nri.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.gstregnri" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>GST REGISTRATION FOR FOREIGN NON-RESIDENT TAXPAYER</title>
+    <title>GST Registration for Foreign Non-Resident Taxpayer</title>
     <meta name="description" content="Non-resident taxable person means a person who occasionally undertakes transactions whether as principal or agent, but who has no fixed place of business or residence in India." />
     <meta name="keywords" content="GST registration, GST returns, GST regulations, Non-Resident Foreign Taxpayer, GST deposit" />
     <link rel="canonical" href="http://etaxbooksolutions.com/gst-registration-nri.aspx" /> 
+    <meta property="og:url" content="http://etaxbooksolutions.com/gst-registration-nri.aspx" />
+    <meta property="og:title" content="GST Registration For Foreign Non-Resident Taxpayer"/>
+    <meta property="og:description" content="Non-resident taxable person means a person who occasionally undertakes transactions whether as principal or agent, but who has no fixed place of business or residence in India." />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="etaxbooksolutions.com" />
+    <meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">GST Registration for Foreign Non-Resident Taxpayer</h4>
+                    <h1 class="w3ls_head1">GST Registration for Foreign Non-Resident Taxpayer</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
