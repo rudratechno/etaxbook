@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="rental-agreement-format.aspx.cs" Inherits="E_TAX.renterlaggreformat" MasterPageFile="~/master1.Master" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>RENTAL AGREEMENT FORMAT</title>
+    <title>Rental Agreement Format</title>
 <meta name="description" content="A rental agreement is a legal document which lays out the prescribed terms and conditions under which the rented property is leased out that is to be followed between the land lord and the tenant." />
 <meta name="keywords" content="rental agreement format,RENTAL AGREEMENT FORMAT" />
 <link rel="canonical" href="http://etaxbooksolutions.com/rental-agreement-format.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/rental-agreement-format.aspx" />
+<meta property="og:title" content="Rental Agreement Format"/>
+<meta property="og:description" content="A rental agreement is a legal document which lays out the prescribed terms and conditions under which the rented property is leased out that is to be followed between the land lord and the tenant." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" /> 
     <style>
         * {
             box-sizing: border-box;
@@ -70,7 +76,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Rental Agreement Format</h4>
+                    <h1 class="w3ls_head1">Rental Agreement Format</h1>
                     <img src="images/Rental-Agreement-in-India.jpg" class="img-thumbnail img-responsive" style="width: 100%;" />
 
                 </div>
