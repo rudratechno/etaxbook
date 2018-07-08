@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="partnership-deed-format.aspx.cs" Inherits="E_TAX.partnership_deed_format" MasterPageFile="~/master1.Master" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>PARTNERSHIP DEED FORMAT</title>
+    <title>Partnership Deed Format</title>
 <meta name="description" content="A partnership deed is a written legal document to avoid unnecessary misunderstanding, harassment and unpleasantness among the partners in the event of any dispute." />
 <meta name="keywords" content="Partnership Deed Form,Why Create a Partnership Deed?" />
 <link rel="canonical" href="http://etaxbooksolutions.com/partnership-deed-format.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/partnership-deed-format.aspx" />
+<meta property="og:title" content="Partnership Deed Format"/>
+<meta property="og:description" content="A partnership deed is a written legal document to avoid unnecessary misunderstanding, harassment and unpleasantness among the partners in the event of any dispute." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
     <style>
         * {
             box-sizing: border-box;
@@ -70,7 +76,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Partnership Deed Format</h4>
+                    <h1 class="w3ls_head1">Partnership Deed Format</h1>
                     <img src="images/Partnership-Deed-Format-in-India.jpg" class="img-thumbnail img-responsive" style="width: 100%;" />
 
                 </div>
