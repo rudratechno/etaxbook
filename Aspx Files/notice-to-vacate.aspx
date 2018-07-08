@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="notice-to-vacate.aspx.cs" Inherits="E_TAX.noticetovacate" MasterPageFile="~/master1.Master" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>NOTICE TO VACATE – FOR TENANTS</title>
+    <title>Notice to Vacate – For Tenants</title>
 <meta name="description" content="A notice to vacate is a legal document giving written notice to the landlord, indicating the intent of the tenant to vacate a rental premises on a specific date." />
 <meta name="keywords" content="NOTICE TO VACATE FOR TENANTS,Notice to vacate for Tenants" />
 <link rel="canonical" href="http://etaxbooksolutions.com/notice-to-vacate.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/notice-to-vacate.aspx" />
+<meta property="og:title" content="Notice To Vacate – For Tenants"/>
+<meta property="og:description" content="A notice to vacate is a legal document giving written notice to the landlord, indicating the intent of the tenant to vacate a rental premises on a specific date." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
     <style>
         * {
             box-sizing: border-box;
@@ -70,7 +76,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Notice to Vacate – For Tenants</h4>
+                    <h1 class="w3ls_head1">Notice to Vacate – For Tenants</h1>
                     <img src="images/notice-to-vacate.jpg" class="img-thumbnail img-responsive" style="width: 100%;" />
 
                 </div>
