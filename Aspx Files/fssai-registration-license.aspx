@@ -2,10 +2,16 @@
 
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>ONLINE FSSAI REGISTRATION AND LICENSE</title>
+    <title>Online FSSAI Registration And License</title>
 <meta name="description" content="The Food Safety & Standards Act, 2006 introduced to improve the hygiene and quality of food has brought about tremendous changes in the food industry. As per the Act, no person shall commence or carry on any food business except under a FSSAI license or FSSAI registration." />
 <meta name="keywords" content="Food Safety & Standards Act, FSSAI license, FSSAI registration, Food Safety and Standards Authority of India (FSSAI)" />
 <link rel="canonical" href="http://etaxbooksolutions.com/fssai-registration-license.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/fssai-registration-license.aspx" />
+<meta property="og:title" content="Online Fssai Registration And License"/>
+<meta property="og:description" content="The Food Safety & Standards Act, 2006 introduced to improve the hygiene and quality of food has brought about tremendous changes in the food industry. As per the Act, no person shall commence or carry on any food business except under a FSSAI license or FSSAI registration." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -14,7 +20,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Online FSSAI Registration and License</h4>
+                    <h1 class="w3ls_head1">Online FSSAI Registration and License</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
