@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="online-rent-agreement.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.onlinerentag" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>ONLINE RENT AGREEMENT</title>
+    <title>Online Rent Agreement</title>
 <meta name="description" content="Online Rent Agreement Registrations, at clients’ doorstep, is a part of an initiative of Stamp & Registration Department, Government of Maharashtra, and we are proud to assist you in this process." />
 <meta name="keywords" content="Online Rent Agreement, Online Rent Agreement Registrations, initiative of Stamp & Registration Department" />
 <link rel="canonical" href="http://etaxbooksolutions.com/online-rent-agreement.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/online-rent-agreement.aspx" />
+<meta property="og:title" content="Online Rent Agreement"/>
+<meta property="og:description" content="Online Rent Agreement Registrations, at clients’ doorstep, is a part of an initiative of Stamp & Registration Department, Government of Maharashtra, and we are proud to assist you in this process." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
     <style>
 * {
     box-sizing: border-box;
@@ -70,7 +76,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Online Rent Agreement</h4>
+                    <h1 class="w3ls_head1">Online Rent Agreement</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
