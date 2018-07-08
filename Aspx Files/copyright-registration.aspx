@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="copyright-registration.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.copyrightsreg" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>COPYRIGHT REGISTRATION</title>
+    <title>Copyright Registration</title>
 <meta name="description" content="Copyright is a form of intellectual property protection like trademark and patents. A copyright is a legal right given by the law to creators of literary, dramatic, musical and artistic works and producers of cinematograph films and sound recordings." />
 <meta name="keywords" content="Reasons to Register a Copyright,Copyright Registration" />
 <link rel="canonical" href="http://etaxbooksolutions.com/copyright-registration.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/copyright-registration.aspx" />
+<meta property="og:title" content="Copyright Registration"/>
+<meta property="og:description" content="Copyright is a form of intellectual property protection like trademark and patents. A copyright is a legal right given by the law to creators of literary, dramatic, musical and artistic works and producers of cinematograph films and sound recordings." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Copyright Registration</h4>
+                    <h1 class="w3ls_head1">Copyright Registration</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
