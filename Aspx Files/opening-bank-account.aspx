@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="opening-bank-account.aspx.cs" Inherits="E_TAX.accopenresolution" MasterPageFile="~/master1.Master" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>BOARD RESOLUTION FOR OPENING BANK ACCOUNT</title>
+    <title>Board Resolution for Opening Bank Account</title>
 <meta name="description" content="Board resolution for opening bank account is a resolution passed in a Board Meeting authorizing certain persons in a company to open and operate the Bank account of a Company or LLP." />
 <meta name="keywords" content="Using this Board Resolution,Board Resolution,Executing Board Resolution for Opening Bank Account " />
 <link rel="canonical" href="http://etaxbooksolutions.com/opening-bank-account.aspx" />    
+<meta property="og:url" content="http://etaxbooksolutions.com/opening-bank-account.aspx" />
+<meta property="og:title" content="Board Resolution For Opening Bank Account"/>
+<meta property="og:description" content="Board resolution for opening bank account is a resolution passed in a Board Meeting authorizing certain persons in a company to open and operate the Bank account of a Company or LLP." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
     <style>
         * {
             box-sizing: border-box;
@@ -70,7 +76,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Board Resolution for Opening Bank Account</h4>
+                    <h1 class="w3ls_head1">Board Resolution for Opening Bank Account</h1>
                     <img src="images/Board-Resolution-for-Opening-Bank-Account.jpg" class="img-thumbnail img-responsive" style="width: 100%;" />
 
                 </div>
