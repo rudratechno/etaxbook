@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="importer-exporter-code.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.importexportcode" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>IMPORTER EXPORTER CODE</title>
+    <title>Importer Exporter Code</title>
 <meta name="description" content="Import Export (IE) Code is a registration required for persons importing or exporting goods and services from India. IE Code is issued by the Directorate General of Foreign Trade (DGFT), Ministry of Commerce and Industries, Government of India." />
 <meta name="keywords" content="Import Export Code, IE Code, Directorate General of Foreign Trade (DGFT)" />
 <link rel="canonical" href="http://etaxbooksolutions.com/importer-exporter-code.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/importer-exporter-code.aspx" />
+<meta property="og:title" content="Importer Exporter Code"/>
+<meta property="og:description" content="Import Export (IE) Code is a registration required for persons importing or exporting goods and services from India. IE Code is issued by the Directorate General of Foreign Trade (DGFT), Ministry of Commerce and Industries, Government of India." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Importer Exporter Code</h4>
+                    <h1 class="w3ls_head1">Importer Exporter Code</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
