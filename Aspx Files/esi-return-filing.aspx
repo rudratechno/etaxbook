@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="esi-return-filing.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.esireturn" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>ESI RETURN FILING</title>
+    <title>ESI Return Filing</title>
 <meta name="description" content="All employers having 10 ore more employees are required to be registered with Employee State Insurance (ESI) Corporation. Those entities having ESI Registration must then file ESI returns. ESI returns are due half-yearly. " />
 <meta name="keywords" content="Employee's State Insurance(ESI), ESI Corporation, ESI Act, ESI Registration, ESI Contribution, ESI Benefits, ESI, Continued Compliance" />
 <link rel="canonical" href="http://etaxbooksolutions.com/esi-return-filing.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/esi-return-filing.aspx" />
+<meta property="og:title" content="ESI Return Filing"/>
+<meta property="og:description" content="All employers having 10 ore more employees are required to be registered with Employee State Insurance (ESI) Corporation. Those entities having ESI Registration must then file ESI returns. ESI returns are due half-yearly." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">ESI Return Filing</h4>
+                    <h1 class="w3ls_head1">ESI Return Filing</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
