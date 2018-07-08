@@ -5,6 +5,12 @@
 <meta name="description" content="The registered office of a Company or LLP can be changed within the local limits of any city, town or village where such office is situated by just giving a notice to the concerned Registrar within 30 days after the date of the change." />
 <meta name="keywords" content="Registered Office, Residential Address, Within City Change, Inter-State Change" />
 <link rel="canonical" href="http://etaxbooksolutions.com/change-of-registered-office.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/change-of-registered-office.aspx" />
+<meta property="og:title" content="Change Of Registered Office"/>
+<meta property="og:description" content="The registered office of a Company or LLP can be changed within the local limits of any city, town or village where such office is situated by just giving a notice to the concerned Registrar within 30 days after the date of the change." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
