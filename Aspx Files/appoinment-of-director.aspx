@@ -5,6 +5,12 @@
 <meta name="description" content="Only living persons can be Directors of a company and the management of a company is entrusted to the Board of Directors. Appointment of Directors can be required for a company from time to time based on the requirements of the shareholders of the business." />
 <meta name="keywords" content="Appointment of Directors, digital signature certificate (DSC), director identification number (DIN), Managing Director, Executive Director" />
 <link rel="canonical" href="http://etaxbooksolutions.com/appoinment-of-director.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/appoinment-of-director.aspx" />
+<meta property="og:title" content="Appointment Of Director"/>
+<meta property="og:description" content="Only living persons can be Directors of a company and the management of a company is entrusted to the Board of Directors. Appointment of Directors can be required for a company from time to time based on the requirements of the shareholders of the business." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
