@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="foreign-subsidiary.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.cforeignsubsidiary" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>FOREIGN SUBSIDIARY COMPANY COMPLIANCE</title>
+    <title>Foreign Subsidiary Company Compliance</title>
 <meta name="description" content="Foreign subsidiary companies are mandatorily required to maintain compliance as per Income Tax Act, Companies Act, transfer pricing guidelines and FEMA guidelines." />
 <meta name="keywords" content="Foreign Subsidiary Company Compliance,Major Compliances for a Foreign Subsidiary Company" />
 <link rel="canonical" href="http://etaxbooksolutions.com/foreign-subsidiary.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/foreign-subsidiary.aspx" />
+<meta property="og:title" content="Foreign Subsidiary Company Compliance"/>
+<meta property="og:description" content="Foreign subsidiary companies are mandatorily required to maintain compliance as per Income Tax Act, Companies Act, transfer pricing guidelines and FEMA guidelines." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Foreign Subsidiary Company Compliance</h4>
+                    <h1 class="w3ls_head1">Foreign Subsidiary Company Compliance</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
