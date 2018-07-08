@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="trademark-registration.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.TRADEMARKREG" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-<title>TRADEMARK REGISTRATION - ONLINE FILING WITH EXPERT HEL</title>
+<title>Trademark Registration - Online Filing with Expert Help</title>
 <meta name="description" content="A trademark is a visual symbol, which may be a word, name, device, label or numerals used by a business to distinguish it goods or services from other similar goods or services originating from a different business." />
 <meta name="keywords" content="Reason For Register Trademark,Trademark Registration FAQs,Documents Required For Trademark Registration" />
 <link rel="canonical" href="http://etaxbooksolutions.com/trademark-registration.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/trademark-registration.aspx" />
+<meta property="og:title" content="Trademark Registration - Online Filing With Expert Help"/>
+<meta property="og:description" content="A trademark is a visual symbol, which may be a word, name, device, label or numerals used by a business to distinguish it goods or services from other similar goods or services originating from a different business." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Trademark Registration - Online Filing with Expert Help</h4>
+                    <h1 class="w3ls_head1">Trademark Registration - Online Filing with Expert Help</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
