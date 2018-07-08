@@ -5,6 +5,12 @@
 <meta name="description" content="The name of a company or LLP can be changed by the promoters at anytime after incorporation. Some of the major reasons for change of company name are business model change, change of promoters, rebranding, etc." />
 <meta name="keywords" content="change of name of a company, company name change, MOA, AOA, Separate Legal Entity, Uninterrupted Existence, Easy Transferability, Owning Property" />
 <link rel="canonical" href="http://etaxbooksolutions.com/company-name-change.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/company-name-change.aspx" />
+<meta property="og:title" content="Company Name Change"/>
+<meta property="og:description" content="The name of a company or LLP can be changed by the promoters at anytime after incorporation. Some of the major reasons for change of company name are business model change, change of promoters, rebranding, etc." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
