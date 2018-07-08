@@ -5,6 +5,12 @@
 <meta name="description" content="Private Limited Company is the most popular type of corporate legal entity in India. Private Limited Company registration is governed by Ministry of Corporate Affairs, Companies Act and the Companies Incorporation Rules." />
 <meta name="keywords" content="company registration, Private Limited Company, equity funds, separate legal entity status" />
 <link rel="canonical" href="http://etaxbooksolutions.com/company-registration.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/company-registration.aspx" />
+<meta property="og:title" content="Company Registration - Eligibility, Process And Expert Help"/>
+<meta property="og:description" content="Private Limited Company is the most popular type of corporate legal entity in India. Private Limited Company registration is governed by Ministry of Corporate Affairs, Companies Act and the Companies Incorporation Rules." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
