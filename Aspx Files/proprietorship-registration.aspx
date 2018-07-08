@@ -1,10 +1,16 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="proprietorship-registration.aspx.cs" MasterPageFile="~/master1.Master" Inherits="E_TAX.proprietorship" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
-    <title>PROPRIETORSHIP REGISTRATION</title>
+    <title>Proprietorship Registration</title>
 <meta name="description" content="A sole proprietorship is a type of unregistered business entity that is owned, managed and controlled by one person. They are one of the common forms of business in India. Proprietorships are very easy to start and have very minimal regulatory compliance requirement for started and operating." />
 <meta name="keywords" content="proprietorship, proprietorship registration" />
 <link rel="canonical" href="http://etaxbooksolutions.com/proprietorship-registration.aspx" />
+<meta property="og:url" content="http://etaxbooksolutions.com/proprietorship-registration.aspx" />
+<meta property="og:title" content="Proprietorship Registration"/>
+<meta property="og:description" content="A sole proprietorship is a type of unregistered business entity that is owned, managed and controlled by one person. They are one of the common forms of business in India. Proprietorships are very easy to start and have very minimal regulatory compliance requirement for started and operating." />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="etaxbooksolutions.com" />
+<meta property="og:image" content="http://etaxbooksolutions.com/images/E-tax%201Logo.png" />
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -13,7 +19,7 @@
         <div class="container">
             <div class="w3_agile_banner_bottom_grid">
                 <div class="w3_agile_banner_bottom_grid_pos">
-                    <h4 class="w3ls_head1">Proprietorship Registration</h4>
+                    <h1 class="w3ls_head1">Proprietorship Registration</h1>
                 </div>
             </div>
             <p class="w3layouts_para1">
